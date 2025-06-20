@@ -1,0 +1,14 @@
+Q1) Explain the concept of recursion and how it can simplify certain problems.
+A)  Recursion is a method where a function calls itself to solve the smaller instances of the same problem.
+
+
+
+Q2) Discuss the time complexity of your recursive algorithm.
+A)  The function calls itself for n times. So the time complexity of recursion is O(n).
+
+
+
+Q3) Explain how to optimize the recursive solution to avoid excessive computation.
+A)  To make recursion more efficient, we can:
+      - Convert to iteration to prevent stack overflow
+      - Use memoization for problems with overlapping
