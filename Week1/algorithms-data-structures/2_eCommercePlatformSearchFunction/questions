@@ -1,0 +1,24 @@
+Q1) Explain Big O notation and how it helps in analyzing algorithms.
+A)  Big O notation is a mathematical way to describe how the performance of an algorithm changes as the size of the input grows.
+    It says:
+          - how fast or slow an algorithm is
+          - how much memory it might use
+    Some of the common examples of Big O notations are:
+      - O(1) --> constant time
+      - O(n) --> linear time
+      - O(log n) --> logarithmic time
+      - O(n^2) --> quadratic time
+
+
+
+
+Q2) Describe the best, average, and worst-case scenarios for search operations.
+A)  For Linear Search:
+        - Best case: O(1) 
+        - Avg case: O(n/2) 
+        - Worst case: O(n)
+
+    For Binary Search:
+        - Best case: O(1)
+        - Avg case: O(log n)
+        - Worse case: o(log n)
