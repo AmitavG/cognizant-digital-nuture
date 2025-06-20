@@ -22,3 +22,11 @@ A)  For Linear Search:
         - Best case: O(1)
         - Avg case: O(log n)
         - Worse case: o(log n)
+
+
+
+
+Q3) Discuss which algorithm is more suitable for your platform and why.
+A)  Binary search is more suitable if the data is large or sorted, as it is much faster - O(log n) than linear search - O(n) 
+    Linear search is more suitable if the data is small or unsorted since it works without sorting.
+
